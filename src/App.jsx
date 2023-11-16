@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import Search from "./Components/search/Search";
 import Header from './Components/Header/Header';
-import './App.css';
+import './index.css';
 
 
 
